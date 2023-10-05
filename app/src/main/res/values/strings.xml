@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">ProjectKelasA</string>
+    <string name="Tombol1" translatable="false">Tombol 1</string>
+    <string name="Tombol2" translatable="false">Tombol 2</string>
+    <string name="mp" translatable="false">Match Parent</string>
+    <string name="right" translatable="false">Kanan</string>
+    <string name="left" translatable="false">Kiri</string>
+</resources>
